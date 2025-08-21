@@ -98,7 +98,7 @@ financial-news-sentiment/
 
 - [Google Cloud Composer Documentation](https://cloud.google.com/composer/docs)  
 - [BigQuery Python Client](https://cloud.google.com/bigquery/docs/reference/libraries)  
-- [Kaggle Dataset – Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/aaron7sun/financial-news-sentiment)  
+- [Kaggle Dataset – Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news)  
 
 ---
 
